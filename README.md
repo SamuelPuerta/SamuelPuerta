@@ -108,7 +108,7 @@ Creo en el código limpio, las buenas prácticas de ingeniería y el aprendizaje
 | Título | Institución | Año |
 |--------|-------------|-----|
 | 🏛️ Ingeniería de Sistemas (8° sem.) | Universidad de Antioquia | 2022 – Actualidad |
-| 💻 Técnico en Análisis y Desarrollo de Software | SENA | 2020 – 2021 |
+| 💻 Técnico en Sitemas de Información | SENA | 2020 – 2021 |
 | 🎒 Bachiller Técnico en Sistemas | I.E. Nueva Generación | 2016 – 2021 |
 
 ---
@@ -127,7 +127,7 @@ Creo en el código limpio, las buenas prácticas de ingeniería y el aprendizaje
 
 ## 🤝 Conectemos
 
-Si tienes un proyecto interesante, una oportunidad laboral o simplemente quieres hablar de tecnología — escríbeme.
+Si tienes un proyecto interesante, una oportunidad laboral o una idea genial — escríbeme.
 
 <div align="center">
 

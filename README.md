@@ -2,7 +2,7 @@
 
 # 👋 Hola, soy Samuel Puerta Patiño
 
-### Desarrollador de Software · Backend & Automatización · UdeA 🟢
+### Ingeniero de Sistemas · Desarrollador de Software · UdeA 🟢
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-samuel--puerta-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/samuel-puerta-7772a226b)
 [![Location](https://img.shields.io/badge/Medellín-Colombia-2E7D4F?style=flat&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Medellín,Colombia)

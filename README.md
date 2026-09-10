@@ -1,143 +1,188 @@
-<div align="center">
+# Hola, soy Samuel Puerta 👋
 
-# 👋 Hola, soy Samuel Puerta Patiño
+### Estudiante de Ingeniería de Sistemas | Backend & Software Development
 
-### Ingeniero de Sistemas · Desarrollador de Software · UdeA 🟢
+Estudiante de **9.º semestre de Ingeniería de Sistemas en la Universidad de Antioquia**, con experiencia práctica en desarrollo de software, backend, automatización y calidad.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-samuel--puerta-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/samuel-puerta-7772a226b)
-[![Location](https://img.shields.io/badge/Medellín-Colombia-2E7D4F?style=flat&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Medellín,Colombia)
+Actualmente trabajo como **Auxiliar de Programación en la Sede de Investigación Universitaria (SIU-UdeA)** y he participado en proyectos académicos y aplicados orientados a resolver problemas reales mediante software.
 
-</div>
+Mi principal interés está en el **desarrollo backend**, especialmente con **Java, Spring Boot, APIs REST y bases de datos**, sin limitarme a un único rol dentro del desarrollo de software.
 
 ---
 
 ## 🧑‍💻 Sobre mí
 
-Soy estudiante de **Ingeniería de Sistemas en la Universidad de Antioquia** (8° semestre), actualmente trabajando como **Auxiliar de Programación en la Sede de Investigación Universitaria (SIU – UdeA)**. Me apasiona el desarrollo backend, la automatización de procesos y el análisis de datos.
+Me interesa construir software que sea:
 
-Creo en el código limpio, las buenas prácticas de ingeniería y el aprendizaje constante. Cuando no estoy programando, estoy aprendiendo algo nuevo que pronto se convertirá en un proyecto.
+* mantenible y fácil de entender
+* bien estructurado y probado
+* preparado para integrarse con otros servicios
+* respaldado por buenas prácticas de ingeniería
+
+He trabajado en proyectos que involucran **APIs REST, autenticación, bases de datos, testing automatizado, CI/CD, Docker, análisis de calidad y sistemas concurrentes**.
+
+También cuento con experiencia previa como **Técnico de Sistemas freelance**, lo que fortaleció mi capacidad para diagnosticar problemas, trabajar de forma autónoma y adaptarme a diferentes necesidades técnicas.
 
 ---
 
-## 🛠️ Stack Tecnológico
+## 🚀 Lo que puedo aportar
 
-**Lenguajes**
+**Backend & Software Development**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
-
-**Backend & Frameworks**
-
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat&logo=postman&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apache-maven&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=json-web-tokens&logoColor=white)
-
-**Datos & Machine Learning**
-
-![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat&logo=xgboost&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![Optuna](https://img.shields.io/badge/Optuna-00BFFF?style=flat)
-
-**DevOps & Calidad**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-![SonarCloud](https://img.shields.io/badge/SonarCloud-F3702A?style=flat&logo=sonarcloud&logoColor=white)
-![JaCoCo](https://img.shields.io/badge/JaCoCo-C21325?style=flat)
+* Java · Spring Boot · REST APIs
+* Python · FastAPI
+* Maven · Gradle
+* JWT · Swagger / OpenAPI
 
 **Bases de datos**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![Flyway](https://img.shields.io/badge/Flyway-CC0200?style=flat&logo=flyway&logoColor=white)
+* PostgreSQL · MySQL · MongoDB
+* SQL
+* Flyway
 
-**Testing**
+**Testing & Quality**
 
-![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=flat&logo=junit5&logoColor=white)
-![Mockito](https://img.shields.io/badge/Mockito-78A641?style=flat)
+* JUnit 5 · Mockito
+* Cucumber · Serenity BDD · Selenium
+* JaCoCo
+* SonarCloud · SonarQube
+
+**DevOps & Tools**
+
+* Docker
+* Git · GitHub
+* GitHub Actions
+* CI/CD
+* Linux
+
+**Data & Machine Learning**
+
+* Python · pandas
+* scikit-learn
+* XGBoost · Optuna
+
+**Systems & Concurrency**
+
+* C · Go · Bash
+* pthreads
+* sockets
+* concurrencia y sincronización
 
 ---
 
-## 🚀 Proyectos Destacados
+## 🏆 Proyectos destacados
 
 ### 🏥 [CITASalud – Agendamiento Médico](https://github.com/SamuelPuerta/CITASalud-Agendamiento)
-> Microservicio de agendamiento médico desarrollado como proyecto CodeFactory (UdeA)
 
-- **Stack:** Java · Spring Boot · PostgreSQL · Docker · JWT · Flyway · Swagger/OpenAPI
-- **DevOps:** CI/CD con GitHub Actions · Análisis de calidad con SonarCloud · Cobertura >80% con JaCoCo
-- **Arquitectura:** REST · Autenticación JWT · Migraciones con Flyway · Monitoreo con Actuator + Prometheus
-- 43 commits · Pipeline de build, test y despliegue automatizado
+Microservicio de agendamiento médico desarrollado como proyecto académico en la UdeA.
 
----
+**Java · Spring Boot · PostgreSQL · Docker · JWT · Flyway · REST · Swagger/OpenAPI**
 
-### 📊 [Modelos IA – Saber Pro Colombia](https://github.com/SamuelPuerta/ModelosIASaberProColombia)
-> Predicción del rendimiento académico en las pruebas Saber Pro del ICFES
-
-- **Stack:** Python · XGBoost · Optuna · pandas · scikit-learn
-- Pipeline completo: EDA → limpieza → feature engineering → modelado → optimización
-- Técnica de pseudo-etiquetado para datos semi-supervisados
-- Análisis de importancia de variables sobre datos reales del ICFES
+* Arquitectura orientada a servicios.
+* Autenticación y autorización mediante JWT.
+* Persistencia y migraciones con PostgreSQL + Flyway.
+* Pruebas automatizadas y cobertura con JaCoCo.
+* Pipeline CI/CD con GitHub Actions.
+* Análisis de calidad con SonarCloud.
+* 43 commits en el repositorio.
 
 ---
 
-### 🖥️ [System Operative Monitor – Bash](https://github.com/SamuelPuerta/System-Operative-Monitor-Bash)
-> Suite de monitoreo del sistema operativo Linux en tiempo real
+### 🏥 CENTIR del Sur – Agendamiento y automatización
 
-- **Stack:** Bash · Shell Scripting · Linux · Cron
-- Registro de métricas de CPU, RAM, disco y red en segundo plano
-- Sistema de alertas automáticas por uso crítico de recursos
-- Generación de reportes resumidos con diseño modular y reutilizable
+Proyecto aplicado desarrollado durante el semestre 2026-1 para una IPS.
+
+Participación en el desarrollo de funcionalidades para **gestión y agendamiento de citas**, backend y panel administrativo, además de una automatización para la **confirmación y cancelación de citas mediante WhatsApp** utilizando n8n e integración con el backend existente.
+
+> Proyecto aplicado, independiente de CITASalud.
+
+---
+
+### 🧪 [Transcription Service](https://github.com/SamuelPuerta/Transcription-service)
+
+Servicio backend desarrollado con Python y FastAPI, acompañado de pruebas automatizadas, contenedorización y herramientas de análisis de calidad.
+
+**Python · FastAPI · Docker · MongoDB · pytest · SonarQube**
+
+---
+
+### 🤖 [Modelos IA – Saber Pro Colombia](https://github.com/SamuelPuerta/ModelosIASaberProColombia)
+
+Proyecto de análisis y modelado predictivo sobre datos de Saber Pro.
+
+**Python · pandas · scikit-learn · XGBoost · Optuna**
+
+Incluye exploración de datos, limpieza, feature engineering, modelado, optimización de hiperparámetros y técnicas de pseudo-etiquetado.
+
+---
+
+### 🧪 [Paycore ScreenPlay](https://github.com/SamuelPuerta/PaycoreScreenPlay)
+
+Proyecto de automatización de pruebas E2E utilizando el patrón Screenplay.
+
+**Java · Serenity BDD · Cucumber · Gradle**
+
+* 14 escenarios automatizados.
+* 14/14 escenarios ejecutados correctamente.
+* Pruebas sobre flujos de autenticación, gestión y operaciones de una plataforma de pagos.
+
+---
+
+### 🖥️ [Concurrency Web Server](https://github.com/SamuelPuerta/concurrency-webserver)
+
+Proyecto orientado al estudio de **concurrencia y planificación de solicitudes** en servidores web.
+
+**C · sockets · concurrencia · sincronización**
+
+Incluye comparación experimental de estrategias de planificación y análisis estadístico de resultados.
 
 ---
 
 ## 💼 Experiencia
 
-| Rol | Empresa | Período |
-|-----|---------|---------|
-| 🔬 Auxiliar de Programación | SIU – Universidad de Antioquia | Jul. 2025 – Actualidad |
-| 🛠️ Técnico de Sistemas | Freelance / Independiente | 2020 – 2024 (4 años) |
+**Auxiliar de Programación — SIU, Universidad de Antioquia**
+`Jul. 2025 – Actualidad`
+
+Desarrollo y mantenimiento de software en un entorno académico y de investigación, trabajando con Git, colaboración técnica, documentación y evolución de soluciones.
+
+**Técnico de Sistemas — Freelance / Independiente**
+`2020 – 2024`
+
+Soporte técnico, diagnóstico, mantenimiento y resolución autónoma de problemas relacionados con sistemas informáticos.
 
 ---
 
 ## 🎓 Educación
 
-| Título | Institución | Año |
-|--------|-------------|-----|
-| 🏛️ Ingeniería de Sistemas (8° sem.) | Universidad de Antioquia | 2022 – Actualidad |
-| 💻 Técnico en Sitemas de Información | SENA | 2020 – 2021 |
-| 🎒 Bachiller Técnico en Sistemas | I.E. Nueva Generación | 2016 – 2021 |
+**Ingeniería de Sistemas — Universidad de Antioquia**
+`2022 – Actualidad · 9.º semestre`
+
+**Técnico en Sistemas de Información — SENA**
+`2020 – 2021`
+
+**Bachiller Técnico en Sistemas**
+`2016 – 2021`
 
 ---
 
-## 📈 GitHub Stats
+## 📊 Actualmente
 
-<div align="center">
-
-![Samuel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SamuelPuerta&show_icons=true&theme=dark&title_color=2E7D4F&icon_color=2E7D4F&hide_border=true&bg_color=0d1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelPuerta&layout=compact&theme=dark&title_color=2E7D4F&hide_border=true&bg_color=0d1117)
-
-</div>
-
----
-
-## 🤝 Conectemos
-
-Si tienes un proyecto interesante, una oportunidad laboral o una idea genial — escríbeme.
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/Conectar_en_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/samuel-puerta-7772a226b)
-[![Email](https://img.shields.io/badge/Enviar_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:puertasamuel04@gmail.com)
-
-</div>
+* 🔭 Enfocado en **backend y desarrollo de software**
+* 🧪 Interesado en **testing, calidad y automatización**
+* 🖥️ Fortaleciendo conocimientos en **sistemas y concurrencia**
+* 📊 Explorando **data y machine learning**
+* 📚 Finalizando mi formación en **Ingeniería de Sistemas**
+* 💼 Abierto a oportunidades de **prácticas y desarrollo de software**
 
 ---
 
-<div align="center">
-<sub>Medellín, Colombia · Ingeniero de Sistemas · Software Engineer 💻☕🌄</sub>
-</div>
+## 📫 Contacto
+
+**LinkedIn:** [Samuel Puerta](https://www.linkedin.com/in/samuelpuerta-softwaredev/)
+**Portfolio:** [samuel-puerta.vercel.app](https://samuel-puerta.vercel.app/)
+**GitHub:** [github.com/SamuelPuerta](https://github.com/SamuelPuerta)
+**Email:** [puertasamuel04@gmail.com](mailto:puertasamuel04@gmail.com)
+
+---
+
+> Construyo software, aprendo constantemente y busco oportunidades donde pueda aportar técnicamente mientras sigo creciendo como desarrollador.
